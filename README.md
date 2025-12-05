@@ -16,3 +16,6 @@ https://mrjonesandme.github.io/DeckOfCards/FullResPNG/
 
 The 100px width version of each file can be accessed using the URL below followed by the file name above:
 https://mrjonesandme.github.io/DeckOfCards/PNG100w/
+
+The 200px width version of each file can be accessed using the URL below followed by the file name above:
+https://mrjonesandme.github.io/DeckOfCards/PNG200w/
